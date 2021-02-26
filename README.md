@@ -1,6 +1,8 @@
 # Ghost Of Tsushima Water Lanterns - VFX Graph
 
-![mp4](https://twitter.com/i/status/1358992850009088000)
+VFX graph sample in HDRP of the water lanterns in Ghost of Tsushima. The sample is mainly meant to educate people on how to VFX graph to create believable in-game effects that can interact with the player. The graph is fully commented and organized so hopefully you should be able to just open it and read through it. 
+
+![png](Media/1.png)
 
 ### References
 
